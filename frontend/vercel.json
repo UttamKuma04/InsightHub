@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://demo-project-1-ehmh.onrender.com/api/:path*"
+      "destination": "https://insighthub-0n6o.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
